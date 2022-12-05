@@ -8,4 +8,7 @@ This is a final project for UCSB PSTAT 174 Fall 2022 (Time Series Analysis).
 2) Yahoo Finance API and TD Ameritrade API were used as data sources.
 3) R was used to perform Time Series Analysis, create a model, and make forecasts.
 4) Latex was used to organize results and create a proper report paper.
+<<<<<<< HEAD
 
+=======
+>>>>>>> 56306af07b4a879aad0b2f32f6fb23bf8fcd537a
